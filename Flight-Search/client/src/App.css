@@ -1,0 +1,14 @@
+.main-body {
+  min-height: 80vh;
+  padding: 15px;
+  text-align: center;
+}
+
+.inner-seach-from {
+  padding: 10px;
+  
+}
+
+h3 {
+  color : green;
+}
